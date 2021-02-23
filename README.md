@@ -16,4 +16,5 @@
 12. 나랑 닮은 연예인을 찾아보자 - face_recognition
 13. Face2Emoji 모바일 웹앱 만들기 - tensorlow js
 14. 인물 사진 모드 만들기 - Image segmentation DeepLab
-15. 
+15. 시계열 이상치 찾기 - K-mean
+16. 진단 성능 개선하기 - augmentation
